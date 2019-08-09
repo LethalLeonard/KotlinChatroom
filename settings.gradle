@@ -1,0 +1,3 @@
+rootProject.name = 'kotlinchatroom'
+include 'Client'
+include 'Server'
